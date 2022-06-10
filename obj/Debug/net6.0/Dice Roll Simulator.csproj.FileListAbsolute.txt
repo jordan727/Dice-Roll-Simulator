@@ -1,0 +1,15 @@
+F:\CS CODE\CS20\CS20 Second Language\Dice Roll Simulator\bin\Debug\net6.0\Dice Roll Simulator.exe
+F:\CS CODE\CS20\CS20 Second Language\Dice Roll Simulator\bin\Debug\net6.0\Dice Roll Simulator.deps.json
+F:\CS CODE\CS20\CS20 Second Language\Dice Roll Simulator\bin\Debug\net6.0\Dice Roll Simulator.runtimeconfig.json
+F:\CS CODE\CS20\CS20 Second Language\Dice Roll Simulator\bin\Debug\net6.0\Dice Roll Simulator.dll
+F:\CS CODE\CS20\CS20 Second Language\Dice Roll Simulator\bin\Debug\net6.0\Dice Roll Simulator.pdb
+F:\CS CODE\CS20\CS20 Second Language\Dice Roll Simulator\obj\Debug\net6.0\Dice Roll Simulator.csproj.AssemblyReference.cache
+F:\CS CODE\CS20\CS20 Second Language\Dice Roll Simulator\obj\Debug\net6.0\Dice Roll Simulator.GeneratedMSBuildEditorConfig.editorconfig
+F:\CS CODE\CS20\CS20 Second Language\Dice Roll Simulator\obj\Debug\net6.0\Dice Roll Simulator.AssemblyInfoInputs.cache
+F:\CS CODE\CS20\CS20 Second Language\Dice Roll Simulator\obj\Debug\net6.0\Dice Roll Simulator.AssemblyInfo.cs
+F:\CS CODE\CS20\CS20 Second Language\Dice Roll Simulator\obj\Debug\net6.0\Dice Roll Simulator.csproj.CoreCompileInputs.cache
+F:\CS CODE\CS20\CS20 Second Language\Dice Roll Simulator\obj\Debug\net6.0\Dice Roll Simulator.dll
+F:\CS CODE\CS20\CS20 Second Language\Dice Roll Simulator\obj\Debug\net6.0\refint\Dice Roll Simulator.dll
+F:\CS CODE\CS20\CS20 Second Language\Dice Roll Simulator\obj\Debug\net6.0\Dice Roll Simulator.pdb
+F:\CS CODE\CS20\CS20 Second Language\Dice Roll Simulator\obj\Debug\net6.0\Dice Roll Simulator.genruntimeconfig.cache
+F:\CS CODE\CS20\CS20 Second Language\Dice Roll Simulator\obj\Debug\net6.0\ref\Dice Roll Simulator.dll
